@@ -1,4 +1,4 @@
-# GrafoDirigdo
+# GrafoDirigido
 Encuentra el Palindromo más cercano de una palabra dada
 Programación 2
 Tecnicatura Universitaria en Inteligencia Artificial
